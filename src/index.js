@@ -1,4 +1,7 @@
 
 var a=1;
+function add() {
+    return a++;
+}
 
-console.log("qwe")
+console.log(add())
