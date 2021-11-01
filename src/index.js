@@ -1,7 +1,7 @@
 
 var a=1;
 function add() {
-    return a++;
+    return a++
 }
 
 console.log(add())
